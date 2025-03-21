@@ -1,4 +1,4 @@
-# Variable-Star-Classification-with-Deep-Learning
+# Classification of Variable Stars with Machine Learning
 
 Sage Santomenna and Jalal Mufti (The Multimodal Maestros)
 
