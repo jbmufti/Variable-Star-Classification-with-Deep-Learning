@@ -27,3 +27,6 @@ Contains data for running the MLP and random forest models. Must be unzipped acc
 
 # /predictions
 Contains examples of predictions made by the MLP model
+
+# /Presentations
+Contains slideshows presented in class
