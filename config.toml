@@ -1,0 +1,3 @@
+data_dir = "/home/ubuntu/asasn/data/g_band/g_band_lcs"  # abspath to the 'data/g_band/g_band_lcs' directory
+outdir = "out"
+ghkss_path = "/home/ubuntu/Tisean_3.0.0/bin/ghkss"
