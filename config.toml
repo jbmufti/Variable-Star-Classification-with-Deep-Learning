@@ -1,3 +1,13 @@
 data_dir = "/home/ubuntu/asasn/data/g_band/g_band_lcs"  # abspath to the 'data/g_band/g_band_lcs' directory
 outdir = "out"
 ghkss_path = "/home/ubuntu/Tisean_3.0.0/bin/ghkss"
+
+# zip files with light curves (report references paper that provides this data - get from source)
+test_zip = "drive/MyDrive/sample_cleaned_lightcurves/test_lcs_5_10_25.zip"
+val_zip = "drive/MyDrive/sample_cleaned_lightcurves/val_lcs_5_10_25.zip"
+train_zip = "drive/MyDrive/sample_cleaned_lightcurves/train_lcs_5_10_25.zip"
+
+# directories inside zip files
+inner_test_dir = "test_lcs/home/ubuntu/asasn/data/g_band/cleaned"
+inner_train_dir = "train_lcs/home/ubuntu/asasn/data/g_band/cleaned"
+inner_val_dir = "val_lcs/home/ubuntu/asasn/data/g_band/cleaned"
